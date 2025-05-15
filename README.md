@@ -17,8 +17,7 @@ Antes de executar os exercícios, certifique-se de ter instalado em sua máquina
 
 - [Node.js](https://nodejs.org/) (versão recomendada: LTS)
 - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
-- Git
-
+  
 ## ⚙️ Como baixar e configurar o projeto
 
 ### 1. Clonar o repositório
