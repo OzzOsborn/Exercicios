@@ -28,7 +28,7 @@ https://github.com/OzzOsborn/Exercicios.git
 
 ### 2. Instalar dependências
 
-Este projeto utiliza `prompt-sync` para receber entradas do usuário via terminal. Para instalá-lo, execute:
+Este projeto utiliza `prompt-sync` para receber entradas do usuário via terminal. Para instalá-lo, execute no prompt de comando do VSCode o seguinte código:
 
 ```bash
 npm install prompt-sync
