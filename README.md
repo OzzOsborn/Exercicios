@@ -23,7 +23,7 @@ Antes de executar os exercícios, certifique-se de ter instalado em sua máquina
 ### 1. Clonar o repositório
 
 ```bash
-https://github.com/OzzOsborn/Lista_1-Modulo_1.git
+https://github.com/OzzOsborn/Exercicios.git
 ```
 
 ### 2. Instalar dependências
