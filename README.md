@@ -15,7 +15,7 @@ Os arquivos contêm exercícios básicos de lógica e manipulação de dados com
 
 Antes de executar os exercícios, certifique-se de ter instalado em sua máquina:
 
-- [Node.js](https://nodejs.org/) (versão recomendada: LTS)
+- [Node.js](https://nodejs.org/) (versão recomendada: v22.15.0)
 - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
   
 ## ⚙️ Como baixar e configurar o projeto
